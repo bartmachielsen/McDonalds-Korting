@@ -1,5 +1,4 @@
 # McDonald's Korting
-<<<<<<< HEAD
 The McDonald's app contains Coupons for getting discount on some products. This app keeps track of all privacy related information in exchange for some discount.
 
 This project is meant for replacing this app by an public website that contains all coupons.
@@ -18,6 +17,3 @@ The project succeeded and does automaticly crawl the newest coupons. This websit
 ## Future:
 - Add The "December calendar"
 - Community system for validating expired coupons
-=======
-![Screenshot of www.McDonalds-korting.nl](https://github.com/bartmachielsen/McDonalds-Korting/raw/master/screenshot.PNG);
->>>>>>> 1e82e98b6aaec7db5994c935f2e826aea7469d92
