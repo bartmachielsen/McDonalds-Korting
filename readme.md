@@ -1,2 +1,2 @@
 # McDonald's Korting
-![alt]("screenshot.PNG");
+![alt]("https://github.com/bartmachielsen/McDonalds-Korting/raw/master/screenshot.PNG");
