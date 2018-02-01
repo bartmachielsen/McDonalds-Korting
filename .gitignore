@@ -1,0 +1,10 @@
+/backup
+/cgi-bin
+/.vscode
+/service/barcode/src/
+/service/barcode/vendor/
+/service/confirm.php
+/service/coupon_notification.php
+/service/coupons.php
+/service/database_connector.php
+/jquery.min.js

@@ -1,0 +1,58 @@
+#promo {
+    width: 100%;
+}
+.part_visible {
+    opacity:0.6;
+}
+body {
+    /* background-image: url("pattern.png"); */
+    /* background-repeat: repeat; */
+    background-color: #C1B363;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0;
+}
+#box{
+    background-color:white;
+    /* border: 4px solid #9fa8a3; */
+    width: 100%;
+    padding: 10px;
+    border: 5px solid #C1B363;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+    float: left;
+    align-content: center;
+}
+#CONFIRM_BUTTON{
+    text-align: center;
+}
+#CONFIRM{
+    text-align: center;
+
+}
+#bar{
+    width:100%;
+    height: 30px;
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+}
+#barcode{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
+    margin-left: 25%;
+    height: 50px;
+    /* position: absolute; */
+}
+/* @media screen and (min-width: 0px) {
+    #box {width:100%;}
+} */
+@media screen and (min-width: 800px) {
+    #box {width:50%;}
+}
+@media screen and (min-width: 1366px) {
+    #box {width:20%;}
+}

@@ -1,0 +1,41 @@
+GET /v3/configurations HTTP/1.1
+x-vmob-device_network_type: wifi
+x-vmob-location_latitude: 
+x-vmob-device_utc_offset: +2:00
+x-vmob-application_version: 1080
+x-vmob-location_longitude: 
+x-vmob-location_accuracy: 
+x-vmob-mobile_operator: none
+x-vmob-device_timezone_id: Europe/Amsterdam
+x-vmob-device_type: a
+x-vmob-device: samsung GT-I9505
+x-vmob-sdk_version: 4.26.0
+x-vmob-uid: a6Gb3zVRMcNtqbDSZ_J_pkbopt_lfNjWRryMU3oVciv7dt2YbkN8Sg==_
+User_Agent: VMob_Android/1080 (samsung GT-I9505)
+Accept: application/json
+x-vmob-device_os_version: 6.0.1
+x-vmob-authorization: c527e167-2481-43bd-805d-56eceea3ba2c
+x-vmob-beacons: 
+Accept-Language: nl-NL
+x-vmob-device_screen_resolution: 1080x1920
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; GT-I9505 Build/MOB30J)
+Host: cfg-tcb823.vmobapps.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+HTTP/1.1 200 OK
+Cache-Control: public, must-revalidate, max-age=293
+Content-Type: application/json; charset=utf-8
+Expires: Sat, 02 Sep 2017 17:39:05 GMT
+Last-Modified: Sat, 02 Sep 2017 17:30:45 GMT
+Vary: Accept-Language, Accept-Encoding, x-vmob-authorization
+x-vmob-correlation-id: a30863dc-5eee-4148-924d-afe4f3b11251
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, HEAD, PUT, POST, DELETE
+Access-Control-Allow-Headers: x-vmob-device_type, x-vmob-authorization, x-vmob-location_accuracy, accept-language, x-vmob-device, authorization, x-vmob-device_screen_resolution, x-vmob-application_version, x-vmob-location_longitude, x-vmob-device_network_type, x-vmob-device_os_version, x-vmob-device_utc_offset, x-vmob-location_latitude, content-type, accept, x-vmob-uid, x-vmob-mobile_operator, x-vmob-location_regionid, origin, x-vmob-device_timezone_id
+Access-Control-Max-Age: 1728000
+Date: Sat, 02 Sep 2017 17:34:12 GMT
+Content-Length: 5104
+
+{"activitiesBatchSize":30,"activitiesExpireAgeInDays":60,"activitiesExpireSize":1000,"activitiesSendMinTimerInSeconds":60,"activityApiUrl":"https://act-tcb823.vmobapps.com/v3","advertisementApiUrl":"https://adv-tcb823.vmobapps.com/v3","advertisementImagePrefix":"https://az798212.vo.msecnd.net/","assetsDownloadPrefix":"https://az798212.vo.msecnd.net/downloads","beaconRegions":"19a305c0-52c3-4445-8bef-3cdf4d970f3d,6586d790-5226-410a-9b09-3d99e7f71c80","blackoutEndsUTCMinutesFromMidnight":300,"blackoutStartsUTCMinutesFromMidnight":1140,"categories":[{"highResolutionImage":"categories/1/category_1_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/1/category_1_high_selected_alldevices.png?version=1","id":1,"lowResolutionImage":"categories/1/category_1_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/1/category_1_low_selected_alldevices.png?version=1","name":"Basic Coupons","sortOrder":1},{"highResolutionImage":"categories/2/category_2_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/2/category_2_high_selected_alldevices.png?version=1","id":2,"lowResolutionImage":"categories/2/category_2_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/2/category_2_low_selected_alldevices.png?version=1","name":"Preference Coupons","sortOrder":2},{"highResolutionImage":"categories/4/category_4_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/4/category_4_high_selected_alldevices.png?version=1","id":4,"lowResolutionImage":"categories/4/category_4_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/4/category_4_low_selected_alldevices.png?version=1","name":"Location Coupons","sortOrder":3},{"highResolutionImage":"categories/5/category_5_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/5/category_5_high_selected_alldevices.png?version=1","id":5,"lowResolutionImage":"categories/5/category_5_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/5/category_5_low_selected_alldevices.png?version=1","name":"Day Part Coupons","sortOrder":4},{"highResolutionImage":"categories/6/category_6_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/6/category_6_high_selected_alldevices.png?version=1","id":6,"lowResolutionImage":"categories/6/category_6_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/6/category_6_low_selected_alldevices.png?version=1","name":"Event Coupons","sortOrder":6},{"highResolutionImage":"categories/7/category_7_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/7/category_7_high_selected_alldevices.png?version=1","id":7,"lowResolutionImage":"categories/7/category_7_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/7/category_7_low_selected_alldevices.png?version=1","name":"Mystery Coupons","sortOrder":7},{"highResolutionImage":"categories/8/category_8_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/8/category_8_high_selected_alldevices.png?version=1","id":8,"lowResolutionImage":"categories/8/category_8_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/8/category_8_low_selected_alldevices.png?version=1","name":"Birthday Coupons","sortOrder":8},{"highResolutionImage":"categories/9/category_9_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/9/category_9_high_selected_alldevices.png?version=1","id":9,"lowResolutionImage":"categories/9/category_9_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/9/category_9_low_selected_alldevices.png?version=1","name":"Other","sortOrder":9},{"highResolutionImage":"categories/3/category_3_high_notselected_alldevices.png?version=1","highResolutionSelectedImage":"categories/3/category_3_high_selected_alldevices.png?version=1","id":3,"lowResolutionImage":"categories/3/category_3_low_notselected_alldevices.png?version=1","lowResolutionSelectedImage":"categories/3/category_3_low_selected_alldevices.png?version=1","name":"-","sortOrder":100}],"categoryImagePrefix":"https://az798212.vo.msecnd.net/","configurationApiUrl":"https://cfg-tcb823.vmobapps.com/v3","consumerApiUrl":"https://con-tcb823.vmobapps.com/v3","extendedParameters":"<null>","geofenceBlackoutWindowOffset":60,"geoTileSizeInDegrees":10.0,"gpsBackgroundMinIntervalInSeconds":400,"gpsPollIntervalInSeconds":400,"locationAccuracy":100,"locationApiUrl":"https://loc-tcb823.vmobapps.com/v3","locationBackgroundSourceDefault":"gps","locationDistanceFilter":400,"locationEnableBackgroundGps":true,"offerApiUrl":"https://off-tcb823.vmobapps.com/v3","offerImagePrefix":"https://az798212.vo.msecnd.net/","redeemedOfferImagePrefix":"https://az798212.vo.msecnd.net/","verificationAddressConsumerEmailChange":"","verificationAddressLogin":"","verificationAddressRegistration":"","verificationDeepLinkURLSchemeName":"vmobverification"}
