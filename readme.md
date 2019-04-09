@@ -1,4 +1,8 @@
 # McDonald's Korting
+
+## Not working anymore
+About an half year ago McDonald's changed their app and architecture.
+
 The McDonald's app contains Coupons for getting discount on some products. This app keeps track of all privacy related information in exchange for some discount.
 
 This project is meant for replacing this app by an public website that contains all coupons.
